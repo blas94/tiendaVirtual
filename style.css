@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100x;
+}
+
+#nav {
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(95, 2, 2);
+}
+
